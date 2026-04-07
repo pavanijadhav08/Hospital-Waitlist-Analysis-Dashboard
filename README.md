@@ -33,11 +33,7 @@ This dashboard helps healthcare stakeholders monitor patient volumes, waiting ti
 - How do age groups impact waiting times?
 - What are the monthly trends for each case type?
 
-- Dashboard Interaction
-
-- <a href="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/summary.png">Summary Dashboard</a>
-- <a href ="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/Detailed%20view.png">Detailed View</a>
-- <a href="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/Drilldown.png">DrillDown</a>
+- Dashboard Interaction - <a href="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/summary.png">Summary Dashboard</a> - <a href ="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/Detailed%20view.png">Detailed View</a> - <a href="https://github.com/pavanijadhav08/Hospital-Waitlist-Analysis-Dashboard/blob/main/Drilldown.png">DrillDown</a>
 
 
 ## Key Performance Indicators (KPIs)
