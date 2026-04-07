@@ -109,6 +109,17 @@ This dashboard helps healthcare stakeholders monitor patient volumes, waiting ti
   <img width="1703" height="675" alt="Drilldown" src="https://github.com/user-attachments/assets/b08c0173-4593-4d11-96ac-0d728bf4c357" />
 
 
+## Project Insights
+
+- Outpatients form the largest portion of the total waitlist, indicating higher demand for non-admitted care.
+- Inpatients and Day Cases, although smaller in number, often represent more critical and resource-intensive cases.
+- A noticeable portion of patients fall into the long waiting category (12+ months), highlighting backlog issues.
+-  Certain specialties consistently contribute more to the waitlist, suggesting uneven demand across departments.
+-  Adult patients (16–64) dominate the waitlist across most time bands.
+-  Monthly trend analysis shows a gradual increase in patient volume, indicating rising healthcare demand.
+-  The comparison between latest month vs previous year reveals system pressure and performance gaps.
+
+
 
 
 ## Conclusion
